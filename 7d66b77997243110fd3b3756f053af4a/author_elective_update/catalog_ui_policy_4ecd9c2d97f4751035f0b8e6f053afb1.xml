@@ -70,7 +70,7 @@
         <update_guid_history>0db264e150387510ba7a12bb3b210e94:-1851532448,45b264e1e33875104f45701ee35a1e92:-450676638</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Due Diligence Form UI Policy">529cf02597b8751035f0b8e6f053af97</sys_audit_delete>
+        <sys_audit_delete display_value="">529cf02597b8751035f0b8e6f053af97</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-21 11:19:15</sys_created_on>

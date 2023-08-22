@@ -17,8 +17,6 @@
         <do_not_select_first>false</do_not_select_first>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <dynamic_value_dot_walk_path/>
-        <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
         <field/>
@@ -79,7 +77,7 @@
         <sys_id>abd3802d9774751035f0b8e6f053af26</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_name>Does the organization conduct cyber exercises to test the capabilities of the incident response and management team at least annually?</sys_name>
-        <sys_package/>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
         <sys_update_name>item_option_new_abd3802d9774751035f0b8e6f053af26</sys_update_name>
