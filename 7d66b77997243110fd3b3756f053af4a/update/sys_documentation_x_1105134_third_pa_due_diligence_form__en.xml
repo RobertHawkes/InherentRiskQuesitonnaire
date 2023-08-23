@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="review_phys_and_env_risks_notes_string" label="2.1. Notes" language="en" table="x_1105134_third_pa_inherent_risk_questionaire">
+    <sys_documentation element="" label="Due Diligence Form" language="en" table="x_1105134_third_pa_due_diligence_form">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>review_phys_and_env_risks_notes_string</element>
+            <element/>
             <help/>
             <hint/>
-            <label>2.1. Notes</label>
+            <label>Due Diligence Form</label>
             <language>en</language>
-            <name>x_1105134_third_pa_inherent_risk_questionaire</name>
-            <plural>2.1. Notes</plural>
+            <name>x_1105134_third_pa_due_diligence_form</name>
+            <plural>Due Diligence Forms</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-14 13:30:36</sys_created_on>
-            <sys_id>0f602a06473031103503d921236d4319</sys_id>
+            <sys_created_on>2023-08-23 07:52:23</sys_created_on>
+            <sys_id>97602a06473031103503d921236d43fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>2.1. Notes</sys_name>
+            <sys_name>Due Diligence Form</sys_name>
             <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
             <sys_policy/>
             <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
-            <sys_update_name>sys_documentation_x_1105134_third_pa_inherent_risk_questionaire_review_phys_and_env_risks_notes_string_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_1105134_third_pa_due_diligence_form__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-14 13:30:36</sys_updated_on>
+            <sys_updated_on>2023-08-23 07:52:23</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
