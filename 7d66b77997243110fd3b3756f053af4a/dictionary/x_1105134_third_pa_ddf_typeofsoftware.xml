@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="edf2bc6e47b0311090561098c26d4311" label="DDF-TypeOfSoftware" max_length="40" name="x_1105134_third_pa_ddf_typeofsoftware" type="collection">
+        <element label="Value" max_length="40" name="value" type="string"/>
+    </element>
+</database>
