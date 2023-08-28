@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Answer the questions on the form as follows:
+Vendor Name = 1
+and Vendor Address = 2
+and Point of Contact = 3
+and Contact Information = 4
+and Data Types = No exchange of data 
+and Does your organization document, publish, and enforce security policies?  = Y
+and Notes = Security Policies Notes
+and Does your organization document and enforce HR policies?  = Y
+and Notes = HR Policies Notes
+and Does your organization document and enforce policies for authorized use of networked services? = Y
+and Notes = Networked Services Notes
+and Does your organization document and enforce policies for authorized use of company email, internet, and intranet?  = Y
+and Notes = Authorized Use Notes
+and Does your organization document and enforce encryption policies and standards?  = Y
+and Notes = Encryption policy notes
+and Notes = 
+and Does your organization document and enforce policies regarding the storage, use, and disposal of sensitive data by third parties? = Y
+and Does your organization document and enforce policies regarding the storage, use, and disposal of sensitive data?  = Y
+and Notes = 
+and Does your organization outsource functionalities related to security management?  = Y
+and Notes = Security Management Notes
+and Do policies and procedures adhere to and comply with privacy laws and regulations related to the security, concealment, and safeguard of customer data?  = Y
+and Notes = Privacy Law Notes
+and Are the penalties associated with noncompliance to your organization’s policies well documented? = Y
+and Notes = 
+and Does your organization regularly review and assess physical- and environmental-related risks?  = Y
+and Notes = 
+and Do data center perimeter controls involve the use of access cards?  = Y
+and Notes = Access Cards Notes
+and Do data center perimeter controls involve the use of keypad controls?  = Y
+and Notes = Keypad Control Notes</description>
+        <display_name>Set Variable Values</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>4</order>
+        <step_config display_value="Set Variable Values">323ca6e1c3b2220076173b0ac3d3aec1</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-25 13:33:12</sys_created_on>
+        <sys_id>41f9b93a4774711090561098c26d436f</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Set Variable Values</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_update_name>sys_atf_step_41f9b93a4774711090561098c26d436f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-28 09:25:07</sys_updated_on>
+        <table/>
+        <test display_value="IRQ can open and submit">281031fe4734711090561098c26d43b3</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=41f9b93a4774711090561098c26d436f"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>41f9b93a4774711090561098c26d436f</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-25 13:33:12</sys_created_on>
+        <sys_id>13918efe4774711090561098c26d43f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-25 13:33:12</sys_updated_on>
+        <value>39c62cd697a47110fd3b3756f053af63</value>
+        <variable display_value="Item">571e6a25c3b2220076173b0ac3d3ae46</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>41f9b93a4774711090561098c26d436f</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-25 13:33:12</sys_created_on>
+        <sys_id>1b918efe4774711090561098c26d43f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-25 13:33:12</sys_updated_on>
+        <value>IO:a557e41a97a47110fd3b3756f053af73=1^IO:c677a81a97a47110fd3b3756f053af8f=2^IO:ae87e81a97a47110fd3b3756f053afe6=3^IO:e0b7ec1a97a47110fd3b3756f053af7c=4^IO:06586c5a97a47110fd3b3756f053af10=244ab17a4774711090561098c26d435b^IO:f378609a97a47110fd3b3756f053af8b=y^IO:2689a4da97a47110fd3b3756f053af6f=Security Policies Notes^IO:50b968da97a47110fd3b3756f053aff9=y^IO:88e96cda97a47110fd3b3756f053afbc=HR Policies Notes^IO:285ae01e97a47110fd3b3756f053afab=y^IO:7d7aa81e97a47110fd3b3756f053af7b=Networked Services Notes^IO:856591d697687110fd3b3756f053af74=y^IO:c89591d297687110fd3b3756f053af06=Authorized Use Notes^IO:5bd59d1a97687110fd3b3756f053afe5=y^IO:9936955a97687110fd3b3756f053afb9=Encryption policy notes^IO:74b7d15a97687110fd3b3756f053af90=^IO:4247999a97687110fd3b3756f053af40=y^IO:7db6d55a97687110fd3b3756f053afc5=y^IO:dd3329eb97a47110fd3b3756f053afb4=^IO:a6c71dda97687110fd3b3756f053af5e=y^IO:bbf791da97687110fd3b3756f053af09=Security Management Notes^IO:9c18951e97687110fd3b3756f053af98=y^IO:a2485d1e97687110fd3b3756f053afa1=Privacy Law Notes^IO:a358515e97687110fd3b3756f053af88=y^IO:cc98951e97687110fd3b3756f053af9c=^IO:79d8dd5e97687110fd3b3756f053afbe=y^IO:0729559e97687110fd3b3756f053af11=^IO:23591d9e97687110fd3b3756f053af0a=y^IO:df991d5e97687110fd3b3756f053af31=Access Cards Notes^IO:7cc995de97687110fd3b3756f053af2d=y^IO:57e95d9e97687110fd3b3756f053afd3=Keypad Control Notes^EQ</value>
+        <variable display_value="Variable Values">346eea25c3b2220076173b0ac3d3ae8b</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_323ca6e1c3b2220076173b0ac3d3aec1^id=41f9b93a4774711090561098c26d436f"/>
+</record_update>

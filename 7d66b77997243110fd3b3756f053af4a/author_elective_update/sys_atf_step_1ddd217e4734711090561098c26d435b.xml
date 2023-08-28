@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Answer the questions on the form as follows:
+Vendor Name = Vendor Name
+and Vendor Address = 1 Vendor Street
+and Point of Contact = Mr Vendor
+and Contact Information = Vendor@Example.com</description>
+        <display_name>Set Variable Values</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>2</order>
+        <step_config display_value="Set Variable Values">323ca6e1c3b2220076173b0ac3d3aec1</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-25 12:09:02</sys_created_on>
+        <sys_id>1ddd217e4734711090561098c26d435b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Set Variable Values</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_update_name>sys_atf_step_1ddd217e4734711090561098c26d435b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-25 12:10:04</sys_updated_on>
+        <table/>
+        <test display_value="IRQ Catalog can open">0eacadfa4734711090561098c26d43e6</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=1ddd217e4734711090561098c26d435b"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>1ddd217e4734711090561098c26d435b</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-25 12:09:02</sys_created_on>
+        <sys_id>5e5e6d7e4734711090561098c26d439f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-25 12:09:02</sys_updated_on>
+        <value>39c62cd697a47110fd3b3756f053af63</value>
+        <variable display_value="Item">571e6a25c3b2220076173b0ac3d3ae46</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>1ddd217e4734711090561098c26d435b</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-25 12:09:02</sys_created_on>
+        <sys_id>9a5e6d7e4734711090561098c26d439f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-25 12:09:02</sys_updated_on>
+        <value>IO:a557e41a97a47110fd3b3756f053af73=Vendor Name^IO:c677a81a97a47110fd3b3756f053af8f=1 Vendor Street^IO:ae87e81a97a47110fd3b3756f053afe6=Mr Vendor^IO:e0b7ec1a97a47110fd3b3756f053af7c=Vendor@Example.com^EQ</value>
+        <variable display_value="Variable Values">346eea25c3b2220076173b0ac3d3ae8b</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="table=var__m_atf_input_variable_323ca6e1c3b2220076173b0ac3d3aec1^id=1ddd217e4734711090561098c26d435b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</application>
+        <file_path/>
+        <instance_id>19684cbfdb61ad1c68c2c59705961961</instance_id>
+        <instance_name>dev166296</instance_name>
+        <name>sys_atf_step_1ddd217e4734711090561098c26d435b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Answer the questions on the form as follows:
+Vendor Name = Vendor Name
+and Vendor Address = 1 Vendor Street
+and Point of Contact = Mr Vendor
+and Contact Information = Vendor@Example.com</description><display_name>Set Variable Values</display_name><inputs/><mugshots_cache_json/><notes/><order>2</order><step_config display_value="Set Variable Values">323ca6e1c3b2220076173b0ac3d3aec1</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-25 12:09:02</sys_created_on><sys_id>1ddd217e4734711090561098c26d435b</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Set Variable Values</sys_name><sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package><sys_policy/><sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope><sys_update_name>sys_atf_step_1ddd217e4734711090561098c26d435b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-25 12:10:04</sys_updated_on><table/><test display_value="IRQ Catalog can open">0eacadfa4734711090561098c26d43e6</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=1ddd217e4734711090561098c26d435b"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>1ddd217e4734711090561098c26d435b</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-25 12:09:02</sys_created_on><sys_id>5e5e6d7e4734711090561098c26d439f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-25 12:09:02</sys_updated_on><value>39c62cd697a47110fd3b3756f053af63</value><variable display_value="Item">571e6a25c3b2220076173b0ac3d3ae46</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>1ddd217e4734711090561098c26d435b</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-25 12:09:02</sys_created_on><sys_id>9a5e6d7e4734711090561098c26d439f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-25 12:09:02</sys_updated_on><value>IO:a557e41a97a47110fd3b3756f053af73=Vendor Name^IO:c677a81a97a47110fd3b3756f053af8f=1 Vendor Street^IO:ae87e81a97a47110fd3b3756f053afe6=Mr Vendor^IO:e0b7ec1a97a47110fd3b3756f053af7c=Vendor@Example.com^EQ</value><variable display_value="Variable Values">346eea25c3b2220076173b0ac3d3ae8b</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_323ca6e1c3b2220076173b0ac3d3aec1^id=1ddd217e4734711090561098c26d435b"/></record_update>]]></payload>
+        <payload_hash>-27791590</payload_hash>
+        <record_name>Set Variable Values</record_name>
+        <reverted_from/>
+        <source>c1e4142a4730311090561098c26d4340</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-25 12:10:04</sys_created_on>
+        <sys_id>659e61be4734711090561098c26d43b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a2c9a000b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-25 12:10:04</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>2d9e61be8a347110d5c93fb60222ddb4</update_guid>
+        <update_guid_history>2d9e61be8a347110d5c93fb60222ddb4:-27791590,da5e6d7e37347110c882de8e0268f7a1:-197678853</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-25 12:16:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>3790a06a88564591a839f517a486c0a1</sys_id>
+        <sys_metadata>1ddd217e4734711090561098c26d435b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Variable Values</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_scope_delete display_value="">01d811cff3234572a416507de51518a9</sys_scope_delete>
+        <sys_update_name>sys_atf_step_1ddd217e4734711090561098c26d435b</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_1ddd217e4734711090561098c26d435b">659e61be4734711090561098c26d43b5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-25 12:16:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

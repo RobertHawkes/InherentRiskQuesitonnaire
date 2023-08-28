@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Search for 'Inherent Risk Questionnaire' in 'Service Catalog' and 'Can We Help You?' category and confirm that the search returns 'Inherent Risk Questionnaire' item</description>
+        <display_name>Search for a Catalog Item</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>1</order>
+        <step_config display_value="Search for a Catalog Item">96103fdfc3e0320076173b0ac3d3ae57</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-25 11:56:50</sys_created_on>
+        <sys_id>316b29ba4734711090561098c26d43b3</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Search for a Catalog Item</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_update_name>sys_atf_step_316b29ba4734711090561098c26d43b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-25 11:57:40</sys_updated_on>
+        <table/>
+        <test display_value="Test IRQ Catalog Exists">747669764734711090561098c26d4362</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=316b29ba4734711090561098c26d43b3"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>316b29ba4734711090561098c26d43b3</document_key>
+        <order>500</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-25 11:56:50</sys_created_on>
+        <sys_id>378b29ba4734711090561098c26d43ef</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-25 11:57:26</sys_updated_on>
+        <value>assert_item_present</value>
+        <variable display_value="Assert Type">a588587787a91300e0ef0cf888cb0b01</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>316b29ba4734711090561098c26d43b3</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-25 11:56:50</sys_created_on>
+        <sys_id>378b29ba4734711090561098c26d43f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-25 11:56:50</sys_updated_on>
+        <value>Inherent Risk Questionnaire</value>
+        <variable display_value="Search Term">4f32f713c324320076173b0ac3d3ae7e</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>316b29ba4734711090561098c26d43b3</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-25 11:56:50</sys_created_on>
+        <sys_id>738b29ba4734711090561098c26d43f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-25 11:56:50</sys_updated_on>
+        <value>e0d08b13c3330100c8b837659bba8fb4</value>
+        <variable display_value="Catalog">45623b13c324320076173b0ac3d3aefc</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>316b29ba4734711090561098c26d43b3</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-25 11:56:50</sys_created_on>
+        <sys_id>bf8b29ba4734711090561098c26d43ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-25 11:56:50</sys_updated_on>
+        <value>0</value>
+        <variable display_value="Search in Portal only">16bb323787221300bcbf480688cb0bce</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>316b29ba4734711090561098c26d43b3</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-25 11:56:50</sys_created_on>
+        <sys_id>f78b29ba4734711090561098c26d43f0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-25 11:57:40</sys_updated_on>
+        <value>e15706fc0a0a0aa7007fc21e1ab70c2f</value>
+        <variable display_value="Category">82233f13c324320076173b0ac3d3aef7</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>316b29ba4734711090561098c26d43b3</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-25 11:56:50</sys_created_on>
+        <sys_id>fb8b29ba4734711090561098c26d43ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-25 11:56:50</sys_updated_on>
+        <value>39c62cd697a47110fd3b3756f053af63</value>
+        <variable display_value="Assert Item">0ddfbbd3c324320076173b0ac3d3ae07</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_96103fdfc3e0320076173b0ac3d3ae57^id=316b29ba4734711090561098c26d43b3"/>
+</record_update>
