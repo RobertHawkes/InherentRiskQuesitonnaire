@@ -39,7 +39,7 @@
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>does_the_organization_employ_standardized_secure_configurations_for_all_systems_and_applications</name>
+        <name>q3_01SecureConfiguration_StandardizedSecureConfigurations</name>
         <order>4900</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
@@ -73,16 +73,16 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-08-24 13:32:21</sys_created_on>
+        <sys_created_on>2023-08-30 08:14:28</sys_created_on>
         <sys_id>4fa7b4e247f0311090561098c26d4358</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Does your organization employ standardized secure configurations for all systems and applications?</sys_name>
-        <sys_package/>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>q3_01SecureConfiguration_StandardizedSecureConfigurations</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
         <sys_update_name>item_option_new_4fa7b4e247f0311090561098c26d4358</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-08-24 14:15:20</sys_updated_on>
+        <sys_updated_on>2023-08-30 12:00:53</sys_updated_on>
         <table/>
         <tooltip/>
         <type>3</type>

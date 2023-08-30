@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Does your organization employ standardized secure configurations for all systems and applications?">4fa7b4e247f0311090561098c26d4358</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-30 11:25:43</sys_created_on>
+        <sys_id>fc641f9447c1311090561098c26d43ee</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Yes, secure configurations are employed, but not to every system / application.</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_update_name>question_choice_fc641f9447c1311090561098c26d43ee</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-30 12:00:43</sys_updated_on>
+        <text>Yes, secure configurations are employed, but not to every system / application.</text>
+        <value>3</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=fc641f9447c1311090561098c26d43ee"/>
+</record_update>

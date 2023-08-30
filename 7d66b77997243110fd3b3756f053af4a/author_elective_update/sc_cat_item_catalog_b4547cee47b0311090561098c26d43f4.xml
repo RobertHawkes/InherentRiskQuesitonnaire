@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Due Diligence Form">299c2bf397247110fe6871571153affb</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-24 13:17:03</sys_created_on>
+        <sys_id>b4547cee47b0311090561098c26d43f4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Service Catalog.Due Diligence Form</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_b4547cee47b0311090561098c26d43f4</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-24 14:15:07</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</application>
+        <file_path/>
+        <instance_id>19684cbfdb61ad1c68c2c59705961961</instance_id>
+        <instance_name>dev166296</instance_name>
+        <name>sc_cat_item_catalog_b4547cee47b0311090561098c26d43f4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="DELETE"><sc_cat_item display_value="Due Diligence Form">299c2bf397247110fe6871571153affb</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-24 13:17:03</sys_created_on><sys_id>b4547cee47b0311090561098c26d43f4</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Service Catalog.Due Diligence Form</sys_name><sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package><sys_policy/><sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope><sys_update_name>sc_cat_item_catalog_b4547cee47b0311090561098c26d43f4</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-08-24 14:15:07</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>481283364</payload_hash>
+        <record_name>Service Catalog.Due Diligence Form</record_name>
+        <reverted_from/>
+        <source>3387ae1c4701311090561098c26d438f</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-30 08:09:53</sys_created_on>
+        <sys_id>4897ee1c4701311090561098c26d4322</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a457de7ea0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-30 08:09:53</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>8c97ee1cd201311097089d537c681421</update_guid>
+        <update_guid_history>8c97ee1cd201311097089d537c681421:481283364,a5be2dffa0743110e8c773d86abd5bed:0,5a4321b2fc347110037dda5be95df79f:481283364,2391c92e27f03110af72c0b6817e8c14:944592280</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Due Diligence Form">d897ee1c4701311090561098c26d4326</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-30 08:09:54</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>44140fbf0f854ff79a22c1ade64406c9</sys_id>
+        <sys_metadata>b4547cee47b0311090561098c26d43f4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Due Diligence Form</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_parent display_value="Due Diligence Form">299c2bf397247110fe6871571153affb</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_scope_delete display_value="">01d811cff3234572a416507de51518a9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_b4547cee47b0311090561098c26d43f4</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_b4547cee47b0311090561098c26d43f4">4897ee1c4701311090561098c26d4322</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-30 08:09:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

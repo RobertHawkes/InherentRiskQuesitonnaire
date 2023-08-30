@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Due Diligence Form">299c2bf397247110fe6871571153affb</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-24 13:17:03</sys_created_on>
+        <sys_id>70547cee47b0311090561098c26d43f6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Can We Help You?.Due Diligence Form</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_update_name>sc_cat_item_category_70547cee47b0311090561098c26d43f6</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-24 14:15:07</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</application>
+        <file_path/>
+        <instance_id>19684cbfdb61ad1c68c2c59705961961</instance_id>
+        <instance_name>dev166296</instance_name>
+        <name>sc_cat_item_category_70547cee47b0311090561098c26d43f6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="DELETE"><sc_cat_item display_value="Due Diligence Form">299c2bf397247110fe6871571153affb</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-24 13:17:03</sys_created_on><sys_id>70547cee47b0311090561098c26d43f6</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Can We Help You?.Due Diligence Form</sys_name><sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package><sys_policy/><sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope><sys_update_name>sc_cat_item_category_70547cee47b0311090561098c26d43f6</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-08-24 14:15:07</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>574945014</payload_hash>
+        <record_name>Can We Help You?.Due Diligence Form</record_name>
+        <reverted_from/>
+        <source>3387ae1c4701311090561098c26d438f</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-30 08:09:54</sys_created_on>
+        <sys_id>5097ee1c4701311090561098c26d4345</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a457de9280000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-30 08:09:54</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>9497ee1c4c01311032f5680683289244</update_guid>
+        <update_guid_history>9497ee1c4c01311032f5680683289244:574945014,2dbe2dfff57431109b625ccfe970c6f3:0,3143ed725a3471108da697d22625e2b5:574945014,3f91c92e7ef031103270169fa9b19e1d:-1339718678</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Due Diligence Form">9497ee1c4701311090561098c26d4349</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-30 08:09:54</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>dbdd0836d4ed462094169b757a486110</sys_id>
+        <sys_metadata>70547cee47b0311090561098c26d43f6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Due Diligence Form</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_scope_delete display_value="">01d811cff3234572a416507de51518a9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_70547cee47b0311090561098c26d43f6</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_70547cee47b0311090561098c26d43f6">5097ee1c4701311090561098c26d4345</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-30 08:09:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

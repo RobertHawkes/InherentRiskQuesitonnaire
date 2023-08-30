@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
     <item_option_new action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <attributes/>
         <cat_item display_value="Due Diligence Form">299c2bf397247110fe6871571153affb</cat_item>
         <category/>
@@ -40,7 +40,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>yes_discovery_and_inventory_method_for_software</name>
-        <order>4700</order>
+        <order>4600</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
@@ -73,16 +73,16 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-08-24 13:31:21</sys_created_on>
+        <sys_created_on>2023-08-30 08:14:29</sys_created_on>
         <sys_id>8c273ca247f0311090561098c26d436e</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Please select from the answers the one that best describes your organization's discovery and inventory methods for software.</sys_name>
-        <sys_package/>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
         <sys_update_name>item_option_new_8c273ca247f0311090561098c26d436e</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-08-24 14:15:10</sys_updated_on>
+        <sys_updated_on>2023-08-30 12:01:15</sys_updated_on>
         <table/>
         <tooltip/>
         <type>3</type>

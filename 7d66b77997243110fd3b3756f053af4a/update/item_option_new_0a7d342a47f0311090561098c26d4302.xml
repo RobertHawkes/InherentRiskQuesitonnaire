@@ -39,8 +39,8 @@
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>does_your_organization_ensure_all_available_high_risk_security_patches_are_applied_and_verified_at_l</name>
-        <order>5600</order>
+        <name>q4_04_VulnerabilityManagement_HighRiskPatchAtLeastMonthly</name>
+        <order>5500</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
@@ -73,16 +73,16 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-08-24 14:14:46</sys_created_on>
+        <sys_created_on>2023-08-30 08:14:26</sys_created_on>
         <sys_id>0a7d342a47f0311090561098c26d4302</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Does your organization ensure all available high-risk security patches are applied and verified at least monthly on all server platforms?</sys_name>
-        <sys_package/>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>q4_04_VulnerabilityManagement_HighRiskPatchAtLeastMonthly</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
         <sys_update_name>item_option_new_0a7d342a47f0311090561098c26d4302</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-08-24 14:15:25</sys_updated_on>
+        <sys_updated_on>2023-08-30 12:01:00</sys_updated_on>
         <table/>
         <tooltip/>
         <type>3</type>
