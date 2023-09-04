@@ -38,20 +38,20 @@ and Notes = Keypad Control Notes</description>
         <inputs/>
         <mugshots_cache_json/>
         <notes/>
-        <order>4</order>
+        <order>2</order>
         <step_config display_value="Set Variable Values">323ca6e1c3b2220076173b0ac3d3aec1</step_config>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-25 13:33:12</sys_created_on>
         <sys_id>41f9b93a4774711090561098c26d436f</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Set Variable Values</sys_name>
         <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
         <sys_update_name>sys_atf_step_41f9b93a4774711090561098c26d436f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-08-28 09:25:07</sys_updated_on>
+        <sys_updated_on>2023-09-01 13:19:41</sys_updated_on>
         <table/>
         <test display_value="IRQ can open and submit">281031fe4734711090561098c26d43b3</test>
         <timeout/>
