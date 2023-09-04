@@ -40,7 +40,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>formatter10</name>
-        <order>5800</order>
+        <order>5700</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
@@ -73,16 +73,16 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-08-30 11:51:24</sys_created_on>
+        <sys_created_on>2023-08-30 12:24:56</sys_created_on>
         <sys_id>b04a935c47c1311090561098c26d430f</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>formatter10</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
         <sys_update_name>item_option_new_b04a935c47c1311090561098c26d430f</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-08-30 12:01:17</sys_updated_on>
+        <sys_updated_on>2023-09-04 07:22:51</sys_updated_on>
         <table/>
         <tooltip/>
         <type>12</type>
